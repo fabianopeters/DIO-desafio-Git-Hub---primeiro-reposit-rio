@@ -1,0 +1,9 @@
+- Programar consiste em falar para o computador uma rotina de sequências que deve ser montadas
+- imagine uma receita de bolo (receitas + modo de preparo)
+- precisamos de um arquivo extenção .py
+- abrir o VS code
+- ctrl + n (cria novo arquivo)
+- ctrl + s (salvar)
+
+Códigos pyton
+print ("texto") - exibe o texto na tela
