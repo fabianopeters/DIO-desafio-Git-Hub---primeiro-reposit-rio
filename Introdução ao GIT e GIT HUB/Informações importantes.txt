@@ -4,8 +4,11 @@ mkdir "Nome do arquivo" Cria o arquivo
 git init - inicializa um novo repertório dentro da pasta em que está aberto
 ls -a mostra os arquivos ocultos dentro da pasta
 cd .. (volta uma pasta)
-git statatus (mostra o status do arquivo
+git status (mostra o status do arquivo)
 mv "nome do arquivo" - mover arquivo
+git add . (adiciona todas modificações para serem comitadas)
+git commit - m "colocar um texto breve do que foi comitado entre aspas""" (comita tudo que foi modificado)
+git push origin main (envia o repertório que foi modificado para o servidor do GitHub)
 
 
 Arquivos .md
